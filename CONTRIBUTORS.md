@@ -3,3 +3,5 @@
 People who have contributed to this project:
 
 * Kieran Hogg
+
+* Jacob Cashin
